@@ -1,7 +1,16 @@
-#include <"stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
-int main()
+/*
+ * main - Entry point 
+ *
+ * Return: Always 0 (success)
+ */
+
+
+int main(void)
 {
 	printf("_putchar/n");
-	return 0;
+	return (0);
 }
