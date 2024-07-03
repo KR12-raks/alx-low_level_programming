@@ -14,11 +14,11 @@ int main(void)
 		putchar(numbers);
 		if (numbers <= '8')
 		{
-		putchar(',');
-		putchar(' ');
+			putchar(',');
+			putchar(' ');
 		}
 		numbers++;
 	}
-	putchar('\n);
+	putchar('\n');
 	return (0);
 }
